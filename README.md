@@ -1,6 +1,6 @@
 ### *OLÁ! ME CHAMO KAIO VITOR* 😁 
 ##
-Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou graduando em Sistemas Para Internet. Um adimirador da área da tecnologia e da programação.
+Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou graduando em Sistemas para Internet. Um adimirador da área da tecnologia e da programação.
 ##
 - 🔭 Aprimorando meus conhecimentos em programação constantemente.
 - 📚 Atualmente estudando a linguagem C# e o framework Bootstrap.
