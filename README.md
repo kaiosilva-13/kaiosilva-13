@@ -38,6 +38,3 @@ Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou gradu
 
 
 
-
-
--->
