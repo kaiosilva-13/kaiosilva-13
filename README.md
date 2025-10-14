@@ -13,18 +13,9 @@ Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou gradu
 </div>
 <div style="display: inline_block" align="center">
   <h3>Conhecimentos Técnicos:</h3>
-  <abbr title="Python3">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </abbr>
-  <abbr title="HTML5">
-    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </abbr>
-  <abbr title="JavaScript">
-    <img align="center" alt="js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </abbr>
-  <abbr title="CSS3">
-    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </abbr>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,html,js,mint,py"/>
+  </div>
 </div>
 <hr>
 
