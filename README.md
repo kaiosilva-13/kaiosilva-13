@@ -3,7 +3,7 @@
 Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou graduando em Sistemas para Internet. Um adimirador da área da tecnologia e da programação.
 ##
 - 🔭 Aprimorando meus conhecimentos em programação constantemente.
-- 📚 Atualmente estudando a linguagem C# e o framework Bootstrap.
+- 📚 Atualmente estudando a linguagem C# e o framework Vuejs.
 - 📫 Entre em contato comigo por email em : kaiovitor13052005@gmail.com
 <br>
 <div align="center">
@@ -14,7 +14,7 @@ Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou gradu
 <div style="display: inline_block" align="center">
   <h3>Conhecimentos Técnicos:</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,html,js,mint,py"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,html,js,mint,py,vuejs,ts"/>
   </div>
 </div>
 <hr>
