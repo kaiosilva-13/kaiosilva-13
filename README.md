@@ -14,7 +14,7 @@ Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou gradu
 <div style="display: inline_block" align="center">
   <h3>Conhecimentos Técnicos:</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,html,js,mint,py,vuejs,ts,shellscript"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,html,js,mint,py,vuejs,ts,bash"/>
   </div>
 </div>
 <hr>
