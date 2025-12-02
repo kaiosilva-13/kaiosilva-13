@@ -6,11 +6,11 @@ Tenho 20 anos, sou técnico em Informática pelo IFRN, onde atualmente sou gradu
 - 📚 Atualmente estudando a linguagem C# e o framework Vuejs.
 - 📫 Entre em contato comigo por email em : kaiovitor13052005@gmail.com
 <br>
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/kaiosilva-13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div> -->
 <div style="display: inline_block" align="center">
   <h3>Conhecimentos Técnicos:</h3>
   <div align="center">
